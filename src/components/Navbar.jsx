@@ -5,7 +5,7 @@ import {FaSquareXTwitter} from "react-icons/fa6";
 import {FaInstagram} from "react-icons/fa";
 import { FaHome } from "react-icons/fa";
 import { SlUserFemale } from "react-icons/sl";
-import Nisa_Yurdagül_Resume from "../assets/Nisa_Yurdagül_Resume.pdf";
+
 
 const Navbar =() => {
   return (
@@ -22,9 +22,6 @@ const Navbar =() => {
       <a href="https://github.com/nisayrdglll">
         <FaGithub/>
       </a>
-      <button className="">
-         <a href={Nisa_Yurdagül_Resume} download='Nisa_Yurdagül_Resume'>Download Resume</a>
-      </button>
      </div>
     </nav> );
 

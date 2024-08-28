@@ -112,6 +112,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Ankara/Turkey",
-  phoneNo: "+90 (541) 430 0104 ",
   email: "hayrun-nisayur@hotmail.com",
 };
